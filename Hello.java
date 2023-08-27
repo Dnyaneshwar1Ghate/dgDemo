@@ -4,7 +4,10 @@ public class Hello {
 
     public static void main(String[] args) {
         
-        System.out.println("this is dg Demo repository");
+        System.out.println("is is dg");
+        int a=50;
+        int b=10;
+ 
     }
 
 }
