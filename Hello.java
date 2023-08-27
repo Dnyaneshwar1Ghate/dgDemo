@@ -8,6 +8,8 @@ public class Hello {
         int a=50;
         int b=10;
  
+      System.out.println(a+"\n"+b);
+
     }
 
 }
