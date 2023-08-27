@@ -4,7 +4,7 @@ public class Hello {
 
     public static void main(String[] args) {
         
-        System.out.println("print A and B  value");
+        System.out.println("hello");
         int a=50;
         int b=10;
  
